@@ -1,0 +1,444 @@
+Abilene|3
+Aiken|5
+Akron|8
+Albany|25
+Albuquerque|24
+Alexandria|14
+Alhambra|4
+Allentown|1
+Alpharetta|1
+Amarillo|23
+Anaheim|4
+Anchorage|20
+Anderson|7
+Ann Arbor|2
+Annapolis|2
+Anniston|3
+Apache Junction|4
+Appleton|1
+Arlington|28
+Arvada|2
+Ashburn|1
+Asheville|6
+Athens|5
+Atlanta|60
+Augusta|11
+Aurora|9
+Austin|41
+Bakersfield|17
+Baltimore|25
+Baton Rouge|16
+Battle Creek|5
+Beaufort|4
+Beaumont|3
+Beaverton|3
+Bellevue|2
+Berkeley|4
+Bethesda|6
+Bethlehem|2
+Billings|2
+Biloxi|2
+Birmingham|49
+Bismarck|1
+Bloomington|4
+Boca Raton|11
+Boise|24
+Bonita Springs|1
+Boston|23
+Boulder|6
+Bowie|3
+Boynton Beach|2
+Bozeman|4
+Bradenton|5
+Brea|1
+Bridgeport|1
+Brockton|6
+Bronx|11
+Brooklyn|22
+Brooksville|7
+Bryan|2
+Buffalo|35
+Burbank|4
+Cambridge|2
+Camden|4
+Canton|8
+Cape Coral|1
+Carol Stream|3
+Carson City|5
+Cedar Rapids|7
+Champaign|4
+Chandler|7
+Charleston|35
+Charlotte|45
+Charlottesville|2
+Chattanooga|18
+Chesapeake|5
+Cheyenne|3
+Chicago|67
+Chula Vista|2
+Cincinnati|39
+Clearwater|8
+Cleveland|26
+College Station|3
+Colorado Springs|23
+Columbia|24
+Columbus|29
+Concord|2
+Conroe|4
+Corona|2
+Corpus Christi|20
+Cumming|3
+Dallas|64
+Danbury|3
+Davenport|6
+Dayton|24
+Daytona Beach|5
+Decatur|6
+Delray Beach|3
+Denton|6
+Denver|34
+Des Moines|34
+Detroit|24
+Dulles|3
+Duluth|10
+Durham|10
+East Saint Louis|1
+Edmond|4
+El Paso|85
+Elizabeth|6
+Englewood|4
+Erie|7
+Escondido|2
+Eugene|1
+Evanston|5
+Evansville|19
+Everett|3
+Fairbanks|3
+Fairfax|2
+Fairfield|1
+Falls Church|1
+Fargo|7
+Farmington|1
+Fayetteville|6
+Flint|11
+Florence|3
+Flushing|5
+Fort Collins|5
+Fort Lauderdale|18
+Fort Myers|8
+Fort Pierce|3
+Fort Smith|8
+Fort Wayne|23
+Fort Worth|23
+Frankfort|4
+Frederick|3
+Fredericksburg|1
+Fresno|42
+Fullerton|5
+Gadsden|5
+Gainesville|11
+Gaithersburg|4
+Galveston|1
+Garden Grove|9
+Garland|8
+Gary|3
+Gastonia|6
+Gatesville|1
+Gilbert|2
+Glendale|7
+Grand Forks|7
+Grand Junction|6
+Grand Rapids|17
+Great Neck|1
+Greeley|3
+Green Bay|1
+Greensboro|13
+Greenville|7
+Gulfport|1
+Hamilton|6
+Hampton|3
+Harrisburg|16
+Hartford|19
+Hayward|2
+Helena|3
+Henderson|4
+Herndon|3
+Hialeah|8
+Hicksville|6
+High Point|4
+Hollywood|7
+Homestead|1
+Honolulu|26
+Houston|82
+Humble|6
+Huntington|17
+Huntington Beach|6
+Huntsville|14
+Hyattsville|1
+Idaho Falls|3
+Independence|4
+Indianapolis|32
+Inglewood|9
+Iowa City|2
+Irvine|8
+Irving|7
+Jackson|17
+Jacksonville|25
+Jamaica|21
+Jefferson City|12
+Jeffersonville|1
+Jersey City|8
+Johnson City|1
+Johnstown|2
+Joliet|5
+Juneau|3
+Kalamazoo|4
+Kansas City|45
+Katy|3
+Kent|1
+Killeen|4
+Kingsport|3
+Knoxville|20
+Lafayette|4
+Lake Charles|7
+Lake Worth|7
+Lakeland|9
+Lakewood|3
+Lancaster|5
+Lansing|9
+Laredo|3
+Largo|4
+Las Cruces|1
+Las Vegas|42
+Laurel|2
+Lawrenceville|2
+Lees Summit|3
+Lehigh Acres|2
+Levittown|2
+Lexington|28
+Lima|2
+Lincoln|12
+Little Rock|9
+Littleton|6
+London|3
+Long Beach|8
+Longview|2
+Loretto|2
+Los Angeles|58
+Louisville|24
+Lubbock|21
+Lynchburg|6
+Lynn|2
+Macon|14
+Madison|29
+Manassas|2
+Manchester|1
+Maple Plain|2
+Marietta|6
+Mc Keesport|8
+Memphis|32
+Meridian|2
+Merrifield|1
+Mesa|6
+Mesquite|3
+Metairie|6
+Miami|43
+Miami Beach|1
+Midland|9
+Migrate|4
+Milwaukee|17
+Minneapolis|38
+Missoula|4
+Mobile|19
+Modesto|5
+Monroe|3
+Montgomery|18
+Monticello|10
+Montpelier|3
+Moreno Valley|1
+Morgantown|6
+Mount Vernon|7
+Mountain View|2
+Muncie|2
+Murfreesboro|1
+Muskegon|4
+Myrtle Beach|1
+Naperville|2
+Naples|14
+Nashville|16
+New Bedford|2
+New Brunswick|2
+New Castle|4
+New Haven|16
+New Orleans|27
+New York City|72
+Newark|13
+Newport News|3
+Newton|7
+Norfolk|10
+Norman|4
+North Hollywood|5
+North Las Vegas|8
+North Little Rock|4
+North Port|2
+Northridge|1
+Norwalk|4
+Oakland|24
+Ocala|5
+Oceanside|2
+Odessa|9
+Ogden|8
+Oklahoma City|46
+Olympia|5
+Omaha|24
+Orange|9
+Orlando|30
+Oxnard|3
+Palm Bay|5
+Palmdale|3
+Palo Alto|5
+Panama City|5
+Pasadena|20
+Paterson|8
+Pensacola|17
+Peoria|22
+Petaluma|2
+Philadelphia|48
+Phoenix|34
+Pinellas Park|1
+Pittsburgh|37
+Plano|1
+Pocatello|2
+Pomona|3
+Pompano Beach|11
+Port Charlotte|5
+Port Saint Lucie|1
+Port Washington|5
+Portland|29
+Portsmouth|11
+Prescott|5
+Providence|8
+Provo|5
+Pueblo|6
+Punta Gorda|5
+Racine|1
+Raleigh|25
+Reading|1
+Redwood City|2
+Reno|17
+Reston|4
+Richmond|44
+Riverside|5
+Roanoke|22
+Rochester|24
+Rockford|1
+Rockville|3
+Round Rock|3
+Sacramento|50
+Saginaw|8
+Saint Augustine|4
+Saint Cloud|3
+Saint Joseph|6
+Saint Louis|29
+Saint Paul|29
+Saint Petersburg|20
+Salem|8
+Salinas|3
+Salt Lake City|42
+San Angelo|4
+San Antonio|44
+San Bernardino|6
+San Diego|44
+San Francisco|28
+San Jose|27
+San Luis Obispo|1
+San Mateo|3
+San Rafael|2
+Santa Ana|4
+Santa Barbara|9
+Santa Clara|4
+Santa Cruz|3
+Santa Fe|5
+Santa Monica|3
+Santa Rosa|3
+Sarasota|9
+Savannah|6
+Schaumburg|2
+Schenectady|5
+Scottsdale|7
+Scranton|3
+Seattle|36
+Seminole|1
+Shawnee Mission|15
+Shreveport|14
+Silver Spring|7
+Simi Valley|2
+Sioux City|6
+Sioux Falls|10
+South Bend|11
+South Lake Tahoe|2
+Southfield|4
+Sparks|5
+Spartanburg|5
+Spokane|11
+Spring|6
+Spring Hill|4
+Springfield|44
+Stamford|5
+Staten Island|3
+Sterling|4
+Stockton|16
+Suffolk|5
+Sunnyvale|3
+Syracuse|13
+Tacoma|22
+Tallahassee|9
+Tampa|25
+Tempe|1
+Temple|3
+Terre Haute|3
+Texarkana|1
+Toledo|12
+Topeka|32
+Torrance|6
+Trenton|20
+Troy|1
+Tucson|32
+Tulsa|29
+Tuscaloosa|3
+Tyler|8
+Utica|2
+Valdosta|2
+Valley Forge|1
+Van Nuys|9
+Vancouver|9
+Ventura|4
+Vero Beach|7
+Vienna|1
+Virginia Beach|11
+Visalia|3
+Waco|8
+Waltham|6
+Warren|4
+Washington|135
+Waterbury|15
+Waterloo|1
+Watertown|1
+West Hartford|3
+West Palm Beach|10
+White Plains|7
+Whittier|8
+Wichita|20
+Wichita Falls|6
+Wilkes Barre|8
+Wilmington|15
+Winston Salem|14
+Winter Haven|1
+Woburn|1
+Worcester|5
+Yakima|1
+Yonkers|4
+York|6
+Young America|17
+Youngstown|10
+Zephyrhills|3
