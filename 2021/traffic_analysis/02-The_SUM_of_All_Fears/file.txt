@@ -1,0 +1,340 @@
+_pcap-challenge-final.pcapng.extracted/119F15:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/11AA0C:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16A6A42:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16A7726:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16ACD42:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16B2716:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16B3452:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16B4182:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16B4EA2:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D460B:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D4C39:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D50F1:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D5737:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D5D65:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D621D:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D692B:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D6F59:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D7411:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D7ABB:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D80E9:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D85A1:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D8B83:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D9279:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D9731:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16D9DDB:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16DA409:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16DA8C1:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16E06FB:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16E0D29:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/16E11E1:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1729CDA:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/172AA16:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/172B796:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/172C51A:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/172D2D2:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/172DFEE:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/173228E:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1732FD2:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1733CF2:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1734AE2:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/17364C5:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1736F0C:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1745C3A:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1763CE9:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1764730:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1766B27:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1766C40:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/17683D5:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1768E1C:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/176A1B1:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/176ABF8:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/177E255:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/177ED64:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1782A65:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/17834AC:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/179CDC2:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/179D68C:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/179E0D3:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/17A40AA:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/17AABA5:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/17AB69C:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/17C2186:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/17C2EAA:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/18447E9:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/18452E0:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/184866D:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1849164:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/185017E:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1855349:  data
+_pcap-challenge-final.pcapng.extracted/18553F2:  data
+_pcap-challenge-final.pcapng.extracted/1856219:  data
+_pcap-challenge-final.pcapng.extracted/18562C2:  data
+_pcap-challenge-final.pcapng.extracted/185817D:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1858C74:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/185AEED:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/185B9F0:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1869F0C:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/186A953:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/186B860:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/186C2A7:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/186CDE4:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/186D82B:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/186E044:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/186EA8B:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/186F6CC:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1870113:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1870B40:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1871587:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19D0C2B:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19D150B:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19D1D23:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19D342B:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19D74D6:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19D8875:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19D9784:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19D9955:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19DA864:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19DAB81:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19DB678:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19DC31D:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19DCEE8:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19E6A83:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19F33BB:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19F3BB7:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/19F6566:  data
+_pcap-challenge-final.pcapng.extracted/19F65AF:  data
+_pcap-challenge-final.pcapng.extracted/1A7942D:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1A79F3C:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1A80DC1:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1A818B8:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1AAACC5:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1AAB7D4:  Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/1B52646:  GIF image data, version 89a, 256 x 256
+_pcap-challenge-final.pcapng.extracted/1C2D71E:  PNG image data, 138 x 195, 8-bit/color RGBA, non-interlaced
+_pcap-challenge-final.pcapng.extracted/1C42666:  ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, stripped
+_pcap-challenge-final.pcapng.extracted/1C4AA36:  PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+_pcap-challenge-final.pcapng.extracted/1C4B0B6:  data
+_pcap-challenge-final.pcapng.extracted/1C4C77D:  data
+_pcap-challenge-final.pcapng.extracted/1C52099:  data
+_pcap-challenge-final.pcapng.extracted/1C5ACD2:  PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
+_pcap-challenge-final.pcapng.extracted/1C6F762:  data
+_pcap-challenge-final.pcapng.extracted/1C7041A:  data
+_pcap-challenge-final.pcapng.extracted/1C7141A:  data
+_pcap-challenge-final.pcapng.extracted/1C7304A:  data
+_pcap-challenge-final.pcapng.extracted/1C73FD7:  mcrypt 2.5 encrypted data, algorithm: nitializeCriticalSection, keysize: 909 bytes, mode: IsDBCSLeadByteEx,
+_pcap-challenge-final.pcapng.extracted/1C74912:  data
+_pcap-challenge-final.pcapng.extracted/1C754E6:  ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, no section header
+_pcap-challenge-final.pcapng.extracted/1C77542:  DIY-Thermocam raw data (Lepton 2.x), scale 40-44938, spot sensor temperature 0.000000, unit fahrenheit, color scheme 0, calibration: offset 0.000000, slope 211.270615
+_pcap-challenge-final.pcapng.extracted/1C77ADB:  data
+_pcap-challenge-final.pcapng.extracted/1C78235:  ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, no section header
+_pcap-challenge-final.pcapng.extracted/1C7845C:  data
+_pcap-challenge-final.pcapng.extracted/1C78675:  data
+_pcap-challenge-final.pcapng.extracted/1C78991:  data
+_pcap-challenge-final.pcapng.extracted/1C78B58:  data
+_pcap-challenge-final.pcapng.extracted/1C79E36:  data
+_pcap-challenge-final.pcapng.extracted/1C79F2B:  data
+_pcap-challenge-final.pcapng.extracted/1C7B89D:  JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, Exif Standard: [TIFF image data, little-endian, direntries=8, description=CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 95, orientation=upper-left, xresolution=168, yresolution=176, resolutionunit=2, software=GIMP 2.10.22, datetime=2021:08:21 22:13:52]
+_pcap-challenge-final.pcapng.extracted/1C7B8BB:  TIFF image data, little-endian, direntries=8, description=CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 95, orientation=upper-left, xresolution=168, yresolution=176, resolutionunit=2, software=GIMP 2.10.22, datetime=2021:08:21 22:13:52
+_pcap-challenge-final.pcapng.extracted/1C7BA35:  JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 256x144, components 3
+_pcap-challenge-final.pcapng.extracted/1C7D5EB:  data
+_pcap-challenge-final.pcapng.extracted/1C7D60D:  data
+_pcap-challenge-final.pcapng.extracted/1D11BD2:  data
+_pcap-challenge-final.pcapng.extracted/1D11CC5:  OpenSSH RSA1 private key, version zaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
+_pcap-challenge-final.pcapng.extracted/2139E5:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/21442C:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/2167D5:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/2176E4:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/2185D5:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/2190D8:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/21D2D1:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/21DDC8:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/21E669:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/21F79C:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/222115:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/222C18:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/223835:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/22432C:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/2267ED:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/227234:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/22B58C:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/22BFD3:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/22C140:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/22CB87:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/233BA3:   data
+_pcap-challenge-final.pcapng.extracted/236151:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/237060:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/238A65:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/239618:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/24CFDD:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/24DA24:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/259439:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/259F30:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/2820D:    empty
+_pcap-challenge-final.pcapng.extracted/2820D-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/2B131:    GIF image data, version 89a, 1 x 1
+_pcap-challenge-final.pcapng.extracted/2C2AE1:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/2C35D8:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/2CB71:    empty
+_pcap-challenge-final.pcapng.extracted/2CB71-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/2DB72:    GIF image data, version 89a, 1 x 1
+_pcap-challenge-final.pcapng.extracted/2DDD2:    GIF image data, version 89a, 1 x 1
+_pcap-challenge-final.pcapng.extracted/2F1F1D:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/2F2A14:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/2F491:    empty
+_pcap-challenge-final.pcapng.extracted/2F491-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/2FE7E:    GIF image data, version 89a, 1 x 1
+_pcap-challenge-final.pcapng.extracted/30DEA:    GIF image data, version 89a, 1 x 1
+_pcap-challenge-final.pcapng.extracted/311F5:    empty
+_pcap-challenge-final.pcapng.extracted/311F5-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/31818:    GIF image data, version 89a, 1 x 1
+_pcap-challenge-final.pcapng.extracted/330238:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/330415:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/335F5:    empty
+_pcap-challenge-final.pcapng.extracted/335F5-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/339870:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/33A85F:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/33AE58:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/33B94F:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/34A9D:    empty
+_pcap-challenge-final.pcapng.extracted/34A9D-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/36583:    GIF image data, version 89a, 1 x 1
+_pcap-challenge-final.pcapng.extracted/36FF8:    empty
+_pcap-challenge-final.pcapng.extracted/36FF8-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/39E2D:    empty
+_pcap-challenge-final.pcapng.extracted/39E2D-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3C2F15:   empty
+_pcap-challenge-final.pcapng.extracted/3C2F15-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3C6D60:   empty
+_pcap-challenge-final.pcapng.extracted/3C6D60-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3C7EDD:   empty
+_pcap-challenge-final.pcapng.extracted/3C7EDD-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3C9B8D:   empty
+_pcap-challenge-final.pcapng.extracted/3C9B8D-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3CB605:   empty
+_pcap-challenge-final.pcapng.extracted/3CB605-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3CC119:   empty
+_pcap-challenge-final.pcapng.extracted/3CC119-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3CF489:   empty
+_pcap-challenge-final.pcapng.extracted/3CF489-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3D0DB9:   empty
+_pcap-challenge-final.pcapng.extracted/3D0DB9-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3D3B51:   empty
+_pcap-challenge-final.pcapng.extracted/3D3B51-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3D5669:   empty
+_pcap-challenge-final.pcapng.extracted/3D5669-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3D5EF9:   empty
+_pcap-challenge-final.pcapng.extracted/3D5EF9-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3D75B0:   empty
+_pcap-challenge-final.pcapng.extracted/3D75B0-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3D90F5:   empty
+_pcap-challenge-final.pcapng.extracted/3D90F5-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3DD6B5:   empty
+_pcap-challenge-final.pcapng.extracted/3DD6B5-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3DE114:   empty
+_pcap-challenge-final.pcapng.extracted/3DE114-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3E2165:   empty
+_pcap-challenge-final.pcapng.extracted/3E2165-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3E2622:   empty
+_pcap-challenge-final.pcapng.extracted/3E2622-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3E54CC:   empty
+_pcap-challenge-final.pcapng.extracted/3E54CC-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3EF730:   empty
+_pcap-challenge-final.pcapng.extracted/3EF730-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3F5039:   empty
+_pcap-challenge-final.pcapng.extracted/3F5039-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3F5450:   ASCII text, with very long lines, with no line terminators
+_pcap-challenge-final.pcapng.extracted/3F5450-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/3FA152:   data
+_pcap-challenge-final.pcapng.extracted/3FA1AC:   data
+_pcap-challenge-final.pcapng.extracted/3FA39A:   data
+_pcap-challenge-final.pcapng.extracted/3FA3F4:   data
+_pcap-challenge-final.pcapng.extracted/3FA70A:   data
+_pcap-challenge-final.pcapng.extracted/3FA764:   data
+_pcap-challenge-final.pcapng.extracted/3FED75:   empty
+_pcap-challenge-final.pcapng.extracted/3FED75-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/400052:   empty
+_pcap-challenge-final.pcapng.extracted/400052-0: gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/40252F:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/402C25:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4030DD:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/40C467:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/40CB5D:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/40D015:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/40DA5B:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/40E151:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/40E609:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/40ECB3:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/40F3A9:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/40F861:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/40FE43:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/410471:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/410929:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/410F0B:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/411539:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4119F1:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/41209B:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/412791:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/412C49:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4147F3:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/414E21:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4152D9:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/45D7:     Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/45E4C7:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/45EAF5:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/45EFAD:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/46BF2B:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/46C621:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/46CAD9:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4C4B9A:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4C51C8:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4C5680:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4C62:     Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4D8FDE:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4D96D4:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/4D9B8C:   Certificate
+_pcap-challenge-final.pcapng.extracted/5321EB:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/532819:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/532CD1:   Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/5F694:    empty
+_pcap-challenge-final.pcapng.extracted/5F694-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/6289B:    PNG image data, 1500 x 520, 8-bit colormap, non-interlaced
+_pcap-challenge-final.pcapng.extracted/689F6:    PNG image data, 32 x 64, 8-bit/color RGBA, non-interlaced
+_pcap-challenge-final.pcapng.extracted/68A2C:    TIFF image data, big-endian, direntries=1
+_pcap-challenge-final.pcapng.extracted/6955F:    PNG image data, 1500 x 520, 8-bit colormap, non-interlaced
+_pcap-challenge-final.pcapng.extracted/6BEB:     Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/6C1CF:    PNG image data, 1500 x 520, 8-bit colormap, non-interlaced
+_pcap-challenge-final.pcapng.extracted/6EA6B:    PNG image data, 1500 x 520, 8-bit colormap, non-interlaced
+_pcap-challenge-final.pcapng.extracted/71523:    PNG image data, 1500 x 520, 8-bit colormap, non-interlaced
+_pcap-challenge-final.pcapng.extracted/741F3:    PNG image data, 1500 x 520, 8-bit colormap, non-interlaced
+_pcap-challenge-final.pcapng.extracted/744B:     Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/7729C:    empty
+_pcap-challenge-final.pcapng.extracted/7729C-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/7BC31:    empty
+_pcap-challenge-final.pcapng.extracted/7BC31-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/7F621:    data
+_pcap-challenge-final.pcapng.extracted/7F625:    Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/80694:    Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/810DB:    Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/9D4E:     data
+_pcap-challenge-final.pcapng.extracted/9D97:     data
+_pcap-challenge-final.pcapng.extracted/A0B02:    ASCII text, with very long lines, with CRLF, LF line terminators
+_pcap-challenge-final.pcapng.extracted/A0B02-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/A1AD:     empty
+_pcap-challenge-final.pcapng.extracted/A1AD-0:   gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/A3576:    ASCII text, with very long lines
+_pcap-challenge-final.pcapng.extracted/A3576-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/A63BA:    data
+_pcap-challenge-final.pcapng.extracted/A6414:    data
+_pcap-challenge-final.pcapng.extracted/A665A:    data
+_pcap-challenge-final.pcapng.extracted/A66B4:    data
+_pcap-challenge-final.pcapng.extracted/A6A62:    data
+_pcap-challenge-final.pcapng.extracted/A6ABC:    data
+_pcap-challenge-final.pcapng.extracted/A6CB6:    data
+_pcap-challenge-final.pcapng.extracted/A6D10:    data
+_pcap-challenge-final.pcapng.extracted/A9139:    empty
+_pcap-challenge-final.pcapng.extracted/A9139-0:  gzip compressed data, from Unix, original size modulo 2^32 108
+_pcap-challenge-final.pcapng.extracted/AA785:    Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/AB27C:    Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/AC4A5:    Certificate, Version=3
+_pcap-challenge-final.pcapng.extracted/ACEEC:    Certificate, Version=3
