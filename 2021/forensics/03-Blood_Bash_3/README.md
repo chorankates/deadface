@@ -61,7 +61,7 @@ bl0ody_mary@3f511992bc19:~$
 
 not seeing much there
 
-ok, back to UDP
+ok, back to UDP - h/t to [digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections)
 
 ```
 bl0ody_mary@3f511992bc19:~$ nc -z -v localhost -u 1-65535

@@ -28,7 +28,7 @@ the input device is not a TTY
 
 was considering `nc` exfil, but don't have a publically accessible IP, so tried to solve with some `.bash_profile` and `.bashrc` checks, `[ "$PS1" == "" ] return;`, to no avail.
 
-spinning up something on GCP
+spinning up something on GCP and use [nakkaya.com](https://nakkaya.com/2009/04/15/using-netcat-for-file-transfers/)
 
 
 in their machine
