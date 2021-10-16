@@ -22,6 +22,15 @@ flag{$940,000}, but that is not correct. nor is flag{$940,000.00}
 
 changed from `.to_i` to `.to_f`, but.. still an even number
 
+
+but.. the question is actually about outstanding balance, not amount
+
+```
+$ ruby foo.rb 
+value[877401.0]
+```
+
 ## flag
 ```
+flag{$877,401.00}
 ```

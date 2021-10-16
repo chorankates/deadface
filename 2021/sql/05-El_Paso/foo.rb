@@ -15,7 +15,7 @@ loan_values = 0
 dbh[:loans].to_a.each do |l|
   next unless employee_ids.include?(l[:employee_id])
   # 0.32e5 => 32,000
-  loan_values += l[:amt].to_f
+  loan_values += l[:balance].to_f
 end
 
 puts sprintf('value[%s]', loan_values)
