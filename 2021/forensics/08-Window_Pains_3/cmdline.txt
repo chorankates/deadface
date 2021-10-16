@@ -1,0 +1,162 @@
+Volatility 3 Framework 2.0.0
+
+PID	Process	Args
+
+4	System	Required memory at 0x20 is not valid (process exited?)
+108	Registry	Required memory at 0x20 is not valid (process exited?)
+372	smss.exe	\SystemRoot\System32\smss.exe
+468	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+544	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+568	wininit.exe	wininit.exe
+644	winlogon.exe	winlogon.exe
+668	services.exe	C:\WINDOWS\system32\services.exe
+708	lsass.exe	C:\WINDOWS\system32\lsass.exe
+832	svchost.exe	C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p
+856	fontdrvhost.ex	Required memory at 0x1bcfe071a28 is inaccessible (swapped)
+864	fontdrvhost.ex	Required memory at 0x1fbf9d01a28 is inaccessible (swapped)
+952	svchost.exe	C:\WINDOWS\system32\svchost.exe -k RPCSS -p
+996	svchost.exe	C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p -s LSM
+384	LogonUI.exe	Required memory at 0x29d6860020 is not valid (process exited?)
+428	dwm.exe	"dwm.exe"
+1044	svchost.exe	C:\WINDOWS\System32\svchost.exe -k NetworkService -s TermService
+1116	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService
+1168	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Schedule
+1220	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s ProfSvc
+1256	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetwork -p
+1264	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts
+1272	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog
+1392	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s UserManager
+1404	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService -p -s nsi
+1412	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc
+1540	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp
+1564	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s UmRdpService
+1612	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService -p -s DispBrokerDesktopSvc
+1656	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService -p -s EventSystem
+1664	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain
+1692	svchost.exe	C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s Themes
+1868	MemCompression	Required memory at 0x20 is not valid (process exited?)
+1924	svchost.exe	C:\WINDOWS\System32\svchost.exe -k NetworkService -p -s NlaSvc
+1936	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s SENS
+2040	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder
+1092	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService -p -s FontCache
+1556	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -s CertPropSvc
+2056	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+2096	svchost.exe	C:\WINDOWS\System32\svchost.exe -k NetworkService -p -s LanmanWorkstation
+2148	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalService -p -s netprofm
+2200	svchost.exe	C:\WINDOWS\system32\svchost.exe -k NetworkService -p -s Dnscache
+2208	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+2216	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+2328	svchost.exe	C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s ShellHWDetection
+2372	svchost.exe	C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s SessionEnv
+2552	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s WinHttpAutoProxySvc
+2564	spoolsv.exe	Required memory at 0x12e1ae8 is inaccessible (swapped)
+2612	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+2808	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2904	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s IKEEXT
+2912	svchost.exe	C:\WINDOWS\system32\svchost.exe -k NetworkServiceNetworkRestricted -p -s PolicyAgent
+2920	svchost.exe	C:\WINDOWS\system32\svchost.exe -k NetworkService -p -s CryptSvc
+2936	svchost.exe	C:\WINDOWS\System32\svchost.exe -k utcsvc -p
+2944	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalServiceNoNetwork -p -s DPS
+2964	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Winmgmt
+3048	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TrkWks
+3060	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s LanmanServer
+2104	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s WpnService
+1620	MsMpEng.exe	"C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2107.4-0\MsMpEng.exe"
+3084	svchost.exe	C:\WINDOWS\System32\svchost.exe -k NetSvcs -p -s iphlpsvc
+3112	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalService -p -s WdiServiceHost
+3444	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s lfsvc
+4016	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalService -p -s LicenseManager
+3544	svchost.exe	Required memory at 0xdbe6836020 is not valid (process exited?)
+4180	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s TokenBroker
+4224	svchost.exe	C:\WINDOWS\system32\svchost.exe -k appmodel -p -s StateRepository
+4412	sihost.exe	sihost.exe
+4444	svchost.exe	C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+4472	svchost.exe	C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+4564	taskhostw.exe	taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+4732	taskhostw.exe	Required memory at 0xb6a8430020 is not valid (process exited?)
+4916	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TabletInputService
+4944	ctfmon.exe	"ctfmon.exe"
+5020	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService -p -s CDPSvc
+4140	userinit.exe	Required memory at 0xfd21197020 is not valid (process exited?)
+4012	explorer.exe	C:\WINDOWS\Explorer.EXE
+3996	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -s RmSvc
+5152	svchost.exe	C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+5300	SearchIndexer.	C:\WINDOWS\system32\SearchIndexer.exe /Embedding
+5564	StartMenuExper	"C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+5664	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5780	SearchApp.exe	"C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+6000	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5200	YourPhone.exe	"C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21072.160.0_x64__8wekyb3d8bbwe\YourPhone.exe" -ServerName:App.AppX9yct9q388jvt4h7y0gn06smzkxcsnt8m.mca
+5368	LockApp.exe	"C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca
+6212	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+6340	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService -p -s BthAvctpSvc
+6752	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+6844	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+6988	SecurityHealth	"C:\Windows\System32\SecurityHealthSystray.exe" 
+7024	SecurityHealth	C:\WINDOWS\system32\SecurityHealthService.exe
+7096	OneDrive.exe	"C:\Users\Jimmie\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+7120	msedge.exe	Required memory at 0x5f397ad020 is not valid (process exited?)
+7132	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Appinfo
+904	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc
+5392	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s WdiSystemHost
+7308	Spotify.exe	Spotify.exe --autostart
+7620	Spotify.exe	"C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\Spotify.exe" --type=crashpad-handler /prefetch:7 --max-uploads=5 --max-db-size=20 --max-db-age=5 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Jimmie\AppData\Local\SpotifyAppX\User Data\Crashpad" "--metrics-dir=C:\Users\Jimmie\AppData\Local\SpotifyAppX\User Data" --url=https://crashdump.spotify.com:443/ --annotation=platform=win32 --annotation=product=spotify --annotation=version=1.1.67.586 --initial-client-data=0x5d0,0x5cc,0x5a0,0x5c8,0x5d4,0x6c433a28,0x6c433a38,0x6c433a44
+7720	Spotify.exe	"C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\Spotify.exe" --type=gpu-process --field-trial-handle=2108,4839584854497019253,9112382588695800992,131072 --disable-features=CalculateNativeWinOcclusion --disable-d3d11 --log-file="C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\debug.log" --log-severity=disable --user-agent-product="Chrome/91.0.4472.114 Spotify/1.1.67.586" --lang=en --gpu-preferences=SAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --log-file="C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\debug.log" --mojo-platform-channel-handle=2112 /prefetch:2
+7896	Spotify.exe	"C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\Spotify.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=2108,4839584854497019253,9112382588695800992,131072 --disable-features=CalculateNativeWinOcclusion --lang=en-US --service-sandbox-type=utility --log-file="C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\debug.log" --log-severity=disable --user-agent-product="Chrome/91.0.4472.114 Spotify/1.1.67.586" --lang=en --log-file="C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\debug.log" --mojo-platform-channel-handle=3096 /prefetch:8
+7908	Spotify.exe	"C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\Spotify.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2108,4839584854497019253,9112382588695800992,131072 --disable-features=CalculateNativeWinOcclusion --lang=en-US --service-sandbox-type=none --log-file="C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\debug.log" --log-severity=disable --user-agent-product="Chrome/91.0.4472.114 Spotify/1.1.67.586" --lang=en --log-file="C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\debug.log" --mojo-platform-channel-handle=3252 /prefetch:8
+8136	Spotify.exe	"C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\Spotify.exe" --type=renderer --log-file="C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\debug.log" --field-trial-handle=2108,4839584854497019253,9112382588695800992,131072 --disable-features=CalculateNativeWinOcclusion --disable-gpu-compositing --lang=en-US --log-file="C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.167.586.0_x86__zpdnekdrzrea0\debug.log" --log-severity=disable --user-agent-product="Chrome/91.0.4472.114 Spotify/1.1.67.586" --disable-spell-checking --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --mojo-platform-channel-handle=3532 /prefetch:1
+7480	TextInputHost.	"C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe" -ServerName:InputApp.AppX9jnwykgrccxc8by3hsrsh07r423xzvav.mca
+3944	dllhost.exe	C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+8044	ApplicationFra	C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+7584	svchost.exe	C:\WINDOWS\System32\svchost.exe -k NetworkService -p -s DoSvc
+8336	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s StorSvc
+8412	SgrmBroker.exe	C:\WINDOWS\system32\SgrmBroker.exe
+8584	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s UsoSvc
+8656	svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s wscsvc
+8696	svchost.exe	C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+9500	RuntimeBroker.	Required memory at 0x188c83a020 is not valid (process exited?)
+10208	WinStore.App.e	"C:\Program Files\WindowsApps\Microsoft.WindowsStore_12107.1001.15.0_x64__8wekyb3d8bbwe\WinStore.App.exe" -ServerName:App.AppXc75wvwned5vhz4xyxxecvgdjhdkgsdza.mca
+1700	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+9692	svchost.exe	C:\WINDOWS\System32\svchost.exe -k netsvcs -p
+2928	SystemSettings	"C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+8020	UserOOBEBroker	C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+9544	ShellExperienc	"C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca
+9452	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+1796	powershell.exe	"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+8592	conhost.exe	\??\C:\WINDOWS\system32\conhost.exe 0x4
+9872	svchost.exe	Required memory at 0x3b47875020 is not valid (process exited?)
+1832	powershell_ise	"C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe" 
+9428	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p -s SSDPSRV
+10648	svchost.exe	C:\WINDOWS\system32\svchost.exe -k WbioSvcGroup -s WbioSrvc
+10992	conhost.exe	\??\C:\WINDOWS\system32\conhost.exe 0x4
+10284	powershell.exe	"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+10268	conhost.exe	\??\C:\WINDOWS\system32\conhost.exe 0x4
+10840	svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv
+10500	SearchProtocol	"C:\WINDOWS\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe4_ Global\UsGthrCtrlFltPipeMssGthrPipe4 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon" 
+4064	svchost.exe	C:\WINDOWS\system32\svchost.exe -k appmodel -p -s camsvc
+10008	svchost.exe	C:\WINDOWS\system32\svchost.exe -k wsappx -p -s AppXSvc
+5948	svchost.exe	C:\WINDOWS\System32\svchost.exe -k wsappx -p -s ClipSVC
+8180	userinit.exe	C:\Windows\Temp\userinit.exe
+5864	SearchFilterHo	"C:\WINDOWS\system32\SearchFilterHost.exe" 0 800 804 812 8192 808 784 
+3652	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window /prefetch:5
+6032	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Jimmie\AppData\Local\Microsoft\Edge\User Data" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Jimmie\AppData\Local\Microsoft\Edge\User Data\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=93.0.4577.63 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 "--annotation=prod=Microsoft Edge" --annotation=ver=93.0.961.38 --initial-client-data=0xf0,0xf4,0xf8,0xcc,0xfc,0x7ff88f5076c8,0x7ff88f5076d8,0x7ff88f5076e8
+7008	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --gpu-preferences=UAAAAAAAAADgAAAQAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAAAAAAAeAAAAAAAAAAoAAAABAAAACAAAAAAAAAAKAAAAAAAAAAwAAAAAAAAADgAAAAAAAAAEAAAAAAAAAAAAAAADQAAABAAAAAAAAAAAQAAAA0AAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAHAAAADQAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=2228 /prefetch:2
+1628	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=2328 /prefetch:3
+4924	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2964 /prefetch:8
+4248	smartscreen.ex	C:\Windows\System32\smartscreen.exe -Embedding
+3556	msedge.exe	Required memory at 0xac6f8ee020 is not valid (process exited?)
+9896	msedge.exe	Required memory at 0xa9810be020 is not valid (process exited?)
+32	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=5140 /prefetch:1
+2488	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=9 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=5828 /prefetch:1
+10808	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=10 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=4132 /prefetch:1
+6540	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --lang=en-US --service-sandbox-type=audio --mojo-platform-channel-handle=6256 /prefetch:8
+420	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=12 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=6504 /prefetch:1
+10432	notepad.exe	"C:\WINDOWS\system32\notepad.exe" 
+10748	Calculator.exe	"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca
+4156	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+1996	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=13 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=6280 /prefetch:1
+992	WWAHost.exe	"C:\Windows\system32\wwahost.exe" -ServerName:OfficeHubHWA.wwa
+2744	msedge.exe	Required memory at 0xc7569f5020 is not valid (process exited?)
+5240	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=renderer --disable-client-side-phishing-detection --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=15 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=7216 /prefetch:1
+5832	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=entity_extraction_service.mojom.Extractor --field-trial-handle=2052,8545982222989981453,14056150474032184914,131072 --lang=en-US --service-sandbox-type=entity_extraction --mojo-platform-channel-handle=7408 /prefetch:8
+5860	winpmem_mini_x	"C:\Users\Jimmie\Downloads\winpmem_mini_x64_rc2.exe" physmemraw
