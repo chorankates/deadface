@@ -12,7 +12,7 @@ Submit the flag as flag{COMPUTER-NAME}.
 so, still volatility.
 
 ```
-$ ./vol.py -f ../01-Window_Pains/physmemraw windows.envars.Envars
+$ ./vol.py -f ../06-Window_Pains/physmemraw windows.envars.Envars
 ...
 5860    winpmem_mini_x  0x1ef7b0e1c10   ALLUSERSPROFILE C:\ProgramData
 5860    winpmem_mini_x  0x1ef7b0e1c10   APPDATA C:\Users\Jimmie\AppData\Roaming
