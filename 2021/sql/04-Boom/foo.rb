@@ -26,7 +26,8 @@ targets = 0
 dbh[:customers].to_a.each do |c|
   age = dob2age(c[:dob])
   next unless c[:state].eql?('MI')
-  if (age >= 55 && age < 60) || (age >= 70 && age < 80)
+  #if (age >= 55 && age < 60) || (age >= 70 && age < 80)
+  if age >= 55
     puts sprintf('target age[%d] found[%s]', age, c)
     targets += 1
   else

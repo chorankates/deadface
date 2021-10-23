@@ -72,6 +72,9 @@ flag{16}
 ```
 also, no.
 
+tried just >= 55 age, flag{3121}, also no.
+tried age >=  55 and MI, still no.
+
 
 ## flag
 
