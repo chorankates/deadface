@@ -17,6 +17,8 @@ Use the PCAP file from Monstrum ex Machina.
 
 so, Luciafer is attacking `192.168.100.106` from `192.168.100.103`
 
+meaning we need to find incoming traffic to .106
+
 
 ## flag
 ```
